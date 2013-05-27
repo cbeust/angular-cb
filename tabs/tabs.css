@@ -1,0 +1,29 @@
+.tab-selected {
+    background-color: #fff;
+    border-top: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid #fff;
+    border-left: 1px solid;
+}
+
+.tab-not-selected {
+    background-color: #eee;
+    border-top: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid;
+}
+
+.tab-title {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 5px 5px 5px 0px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.tab-content {
+    border: 1px solid;
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+}
